@@ -1,7 +1,6 @@
 Hello world
 
+A가 추가했습니다~!
+이부분을 확인해볼게요.
+
 2nd commit
-3
-
-
-ttsdf
